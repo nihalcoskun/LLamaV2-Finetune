@@ -53,7 +53,7 @@ This process involved steps such as loss value analysis, evaluating overfitting 
 the model's ability to create context as a language model.
 
 
-## **Model Checkpıint Tests**
+## **Model Checkpoint Tests**
 
 <img width="454" alt="image" src="https://github.com/nihalcoskun/LLamaV2-Finetune/assets/77547456/730f78e8-483f-44d5-a6c3-f1f381fffe99">
 
